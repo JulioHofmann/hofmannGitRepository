@@ -1,5 +1,7 @@
 # hofmannGitRepository
 Files that may be useful...
 
-Testing
+Testing.
 Testing again...
+
+Don't do this directory on github.
